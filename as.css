@@ -81,4 +81,5 @@ footer{
     bottom:0vh;
     right:0vw;
     box-sizing: border-box;
+    z-index:1;
 } 
